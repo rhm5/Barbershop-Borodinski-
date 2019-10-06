@@ -1,6 +1,6 @@
 # Barbershop-Borodinski
 
-* Сайт: [Barbershop-Borodinski](https://rhm5.github.io/Barbershop-Borodinski/)
+* Сайт: [Barbershop-Borodinski](https://5rhm5.gitlab.io/barbershop-borodinski/)
 * Дизайн: [HTML Academy](https://htmlacademy.ru/)
 
 
